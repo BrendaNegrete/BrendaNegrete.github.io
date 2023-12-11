@@ -6,7 +6,7 @@ Ext.define('app.view.login.WindowLoginController',{
     hacerLogin: function (){
         var formulario = this.lookupReference('formulario');//Obtener referencia al formulario
         formulario.getForm().submit({ //Enviar la solicitud al servidor
-            url: 'https://brendanegrete.github.io/server/dologin.json', //URL para la solicitud de inicio de sesión
+            url: 'server/dologin.json', //URL para la solicitud de inicio de sesión
             scope: this,
             success: function(response,opts){//Función ejecutada en caso de éxito
                 console.dir(opts.result);
