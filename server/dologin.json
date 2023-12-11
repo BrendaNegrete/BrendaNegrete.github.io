@@ -1,0 +1,15 @@
+{
+  "user_k":"i",
+  "email":"joshua@extjs.mx",
+  "user":"admin",
+  "role_k":"i",
+  "name":"Joshua",
+  "lastname":" ",
+  "fullname": "Joshua",
+  "avatar": "resorces\/img\/avatar\/pearson.jpg",
+  "ip": "127.16.0.1",
+  "plataform": "IOS",
+  "device": "unknow",
+  "token": "3ae561e0671b79543a116",
+  "success":true
+}
